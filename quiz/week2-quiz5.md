@@ -85,7 +85,7 @@ Which of the following vectorizations correctly compute z? Check all that apply.
  
 * z = v * w;
  
-* **z = sum (v .* w);** 
+* **z = sum (v .\* w);** 
  
 * z = v .* w;
 
